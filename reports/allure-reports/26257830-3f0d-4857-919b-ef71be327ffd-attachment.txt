@@ -1,0 +1,6 @@
+Assertion Error Ocurred
+assert 'OrangeHRM' == 'abc'
+  - abc
+  + OrangeHRM
+I am inside finally
+Test completed
