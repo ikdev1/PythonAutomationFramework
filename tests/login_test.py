@@ -25,7 +25,7 @@ class TestLogin():
             homePage.click_welcome()
             homePage.click_logout()
             x = driver.title
-            assert x == "abc"
+            assert x == "OrangeHRM"
 
         except AssertionError as error:
             print("Assertion Error Ocurred")
